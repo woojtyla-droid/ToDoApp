@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![skull-skull-emoji](https://github.com/woojtyla-droid/ToDoApp/assets/84673834/ff964aa3-5fd1-4cb2-94b9-897d8fdf3ab6)
+![skull-skull-emoji](https://github.com/woojtyla-droid/ToDoApp/assets/84673834/ff964aa3-5fd1-4cb2-94b9-897d8fdf3ab6)
+![skull-skull-emoji](https://github.com/woojtyla-droid/ToDoApp/assets/84673834/ff964aa3-5fd1-4cb2-94b9-897d8fdf3ab6)
+![skull-skull-emoji](https://github.com/woojtyla-droid/ToDoApp/assets/84673834/ff964aa3-5fd1-4cb2-94b9-897d8fdf3ab6)
